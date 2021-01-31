@@ -20,4 +20,4 @@ Before you open source your project, consider the effort required to maintain it
 
 ## License
 
-This repository is licensed under [CC-BY-4.0](../LICENSE) (c) 2019 GitHub, Inc.
+This repository is licensed under [MIT License](https://github.com/ytmartins/oss-enterprise/blob/main/LICENSE) (c) 2021 Yuri Tomaz Martins.
